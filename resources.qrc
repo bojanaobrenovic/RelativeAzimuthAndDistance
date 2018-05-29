@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/plugins/DirekcioniUgao">
+        <file>icon.png</file>
+        <file>resources/calculator</file>
+        <file>resources/capture.svg</file>
+        <file>resources/clear.svg</file>
+        <file>resources/down.svg</file>
+        <file>resources/draw.svg</file>
+        <file>resources/equal.svg</file>
+        <file>resources/export.svg</file>
+        <file>resources/gk.PNG</file>
+        <file>resources/import.svg</file>
+        <file>resources/lastpoint.svg</file>
+        <file>resources/question.svg</file>
+        <file>resources/remove.svg</file>
+        <file>resources/the-sum-of.svg</file>
+        <file>resources/tick.svg</file>
+        <file>resources/up.svg</file>
+        <file>resources/utm.PNG</file>
+    </qresource>
+</RCC>
